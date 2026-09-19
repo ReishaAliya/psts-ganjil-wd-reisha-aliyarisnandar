@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding 0;
+    box-sizing: border-box;
+}
+
+.wadah-konten {
+    max-width: 825px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #1e3a25;
+}
+
+.kartu-item {
+    background-color: #f9dfe4;
+    padding: 16px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    border-left: 4px solid #1e3a25;
+}
+
+nav a {
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color:#1e3a25;
+}

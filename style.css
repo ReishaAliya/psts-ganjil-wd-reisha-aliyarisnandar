@@ -31,7 +31,11 @@ nav a:hover {
 }
 
 .status-ujian {
+<<<<<<< HEAD
     color:#1e3a25
+=======
+    color: #1e3a25;
+>>>>>>> fitur-psts-reishaaliya
     background-color: #f9dfe4;
     padding: 5px;
 }
